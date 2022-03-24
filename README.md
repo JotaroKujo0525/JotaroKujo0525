@@ -10,4 +10,13 @@
 
 ## Contact me:
 
--Discord: (Jotaro Kujo#0525)[]
+- Discord: (Jotaro Kujo#0525)[https://discord.gg/cgjW7Xr2ns]
+- Github: (JotaroKujo0525)[https://github.com/JotaroKujo0525]
+
+<br>
+
+## Some of my stuff
+
+- (Dio Brando)[https://top.gg/bot/860946246679789569]
+- (Jonathan Joestar)[https://top.gg/bot/863242852033363990]
+- (Jotaro's Documentation)[https://jotaro-documentation.ga]
