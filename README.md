@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, I'm Jotaro, a discord bot developer
 
-<!--
-**JotaroKujo0525/JotaroKujo0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my discord bots
+- 🌱 I’m currently learning python and go
+- 🤔 I’m looking for help with my life
+- 📫 How to reach me: Jotaro Kujo#0525 on discord
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me:
+
+-Discord: (Jotaro Kujo#0525)[]
