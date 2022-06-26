@@ -18,5 +18,4 @@
 ## Some of my stuff
 
 - [Dio Brando](https://top.gg/bot/860946246679789569)
-- [Jonathan Joestar](https://top.gg/bot/863242852033363990)
 - [Jotaro's Documentation](https://jotaro-documentation.ga)
