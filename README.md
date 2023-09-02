@@ -1,21 +1,19 @@
 ### Hello, I'm Jotaro, a discord bot developer
 
-- 🔭 I’m currently working on my discord bots
-- 🌱 I’m currently learning python and go
 - 🤔 I’m looking for help with my life
-- 📫 How to reach me: hakuu0525 on discord
+- 📫 How to reach me: .mrphilo on discord
 - 😄 Pronouns: He/Him
 
 <br>
 
 ## Contact me:
 
-- Discord: [Jotaro Kujo#0525](https://discord.gg/cgjW7Xr2ns)
+- Discord: [.mrphilo](https://discord.gg/cgjW7Xr2ns)
 - Github: [JotaroKujo0525](https://github.com/JotaroKujo0525)
 
 <br>
 
-## Some of my stuff
+## Notice
 
-- [Dio Brando](https://top.gg/bot/860946246679789569)
-- [Jotaro's Documentation](https://jotaro-documentation.ga)
+- I'm currently taking a break and is focusing on my irl stuffs. be tuned for my upcoming projects. thank you!
+- be advised that **ALL** my bots are down and i dont intend to work on them yet. im sorry. please contact me in discord if you have any concerns.
