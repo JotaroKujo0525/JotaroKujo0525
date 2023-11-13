@@ -16,4 +16,4 @@
 ## Notice
 
 - I'm currently taking a break and is focusing on my irl stuffs. be tuned for my upcoming projects. thank you!
-- be advised that **ALL** my bots are down and i dont intend to work on them yet. im sorry. please contact me in discord if you have any concerns.
+- be advised that only Dio Brando is working as of the moment.
